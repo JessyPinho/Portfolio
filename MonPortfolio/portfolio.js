@@ -55,7 +55,7 @@ export const skillsSection = {
 					fontAwesomeClassname: "vscode-icons:file-type-python"
 				},
 				{
-					skillName: "React Native",
+					skillName: "React and React Native",
 					fontAwesomeClassname: "vscode-icons:file-type-reactjs",
 				},
 				{
@@ -119,6 +119,11 @@ export const projects = [
 		name: "Code Insider",
 		desc: "Creation of a mobile application that links companies to students looking for an internship, I used React Native for this application.",
 		github: "https://github.com/JessyPinho/CodeInsider",
+	},
+	{
+		name: "Portfolio",
+		desc: "Creation of My Portfolio using Next and React.js adjusted for myself and my ongoing projects",
+		github: "https://github.com/JessyPinho/Portfolio",
 	},
 ];
 
